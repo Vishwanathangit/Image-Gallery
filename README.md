@@ -33,4 +33,4 @@ That’s it — you can now explore the image gallery!
 
 🔗 Live Demo
 
-Live Site Link : ()
+Live Site Link : (https://vishwanathangit.github.io/Image-Gallery/)
